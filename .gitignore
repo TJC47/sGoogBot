@@ -1,3 +1,7 @@
+# DO NOT COMMIT TOKEN
+*.sensitive
+# LRB
+LEBlogger.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
